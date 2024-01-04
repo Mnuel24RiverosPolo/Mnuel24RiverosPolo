@@ -15,7 +15,7 @@
 <br><br>
 
 - :school: I am a `Junior` at [software design and development](https://www.tecsup.edu.pe/programas-academicos/carreras-profesionales-3-anos/diseno-y-desarrollo-de-software) at [TECSUP](https://www.tecsup.edu.pe/).
-- :trophy: 2x `ACPC` Finalist.
+
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
